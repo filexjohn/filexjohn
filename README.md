@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @filexjohn
 - 👀 I’m interested in Mathematics and programming
 - 🌱 I’m currently learning Computer Science (AI)
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me filmonyouhans@yahoo.com
 
 <!---
